@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Lets Kode it Test Suite">
+<listeners>
+<listener class-name="ExtentReportListener.ExtentReporterNG"></listener>
+
+</listeners>
+<test name="Lets Kode it Test Cases">
+<classes>
+<class name="com.letskodeit.qa.testcases.SignUpPageTest"></class>
+</classes>
+</test>
+</suite>

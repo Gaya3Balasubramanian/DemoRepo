@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lets Kode it Test Suite" duration-ms="56313" started-at="2020-05-01T00:05:29Z" finished-at="2020-05-01T00:06:26Z">
+    <groups>
+    </groups>
+    <test name="Lets Kode it Test Cases" duration-ms="56313" started-at="2020-05-01T00:05:29Z" finished-at="2020-05-01T00:06:26Z">
+      <class name="com.letskodeit.qa.testcases.SignUpPageTest">
+        <test-method status="PASS" signature="SetUpMethod()[pri:0, instance:com.letskodeit.qa.testcases.SignUpPageTest@f777e8]" name="SetUpMethod" is-config="true" duration-ms="31104" started-at="2020-05-01T05:35:29Z" finished-at="2020-05-01T05:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method status="PASS" signature="clickonsignupbutton()[pri:0, instance:com.letskodeit.qa.testcases.SignUpPageTest@f777e8]" name="clickonsignupbutton" duration-ms="19134" started-at="2020-05-01T05:36:00Z" finished-at="2020-05-01T05:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonsignupbutton -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.letskodeit.qa.testcases.SignUpPageTest@f777e8]" name="tearDownMethod" is-config="true" duration-ms="6010" started-at="2020-05-01T05:36:20Z" finished-at="2020-05-01T05:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.letskodeit.qa.testcases.SignUpPageTest -->
+    </test> <!-- Lets Kode it Test Cases -->
+  </suite> <!-- Lets Kode it Test Suite -->
+</testng-results>
